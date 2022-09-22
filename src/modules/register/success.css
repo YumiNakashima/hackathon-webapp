@@ -1,0 +1,24 @@
+.container-success {
+  display: flex;
+  height: 100%;
+  min-height: 795px;
+}
+
+.bg-success {
+  background-image: url(../../assets/success.png);
+  width: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.right-half {
+  width: 50%;
+  right: 0px;
+  padding-top: 13%;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
