@@ -82,6 +82,7 @@ translate(50%, -50%); z-index: 10; text-align: center;">Carregando...</div>`
       <div className="right-half">
         <div>
           <h1>Inscrição</h1>
+          <h3>Concurso para Alimentador de Lhamas</h3>
         </div>
         <div>
           <form>
